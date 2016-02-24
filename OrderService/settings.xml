@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="9763d1d4-d366-41b3-80fc-10f2c2529748" name="OrderService" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="9763d1d4-d366-41b3-80fc-10f2c2529748fileName">OrderService</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
